@@ -1,0 +1,11 @@
+- name: "تعلَّم"
+  icon: "shopping-cart"
+  description: "نساعدك على تعلُّم فعّال بوسائل مرِنة"
+
+- name: "خطِّط"
+  icon: "laptop"
+  description: "نساعدك على اختيار الوقت و الصيغة المناسبين"
+
+- name: "حدِّد المهارات"
+  icon: "lock"
+  description: "نساعدك على التوفيق بين مكتسباتك و أهدافك"
